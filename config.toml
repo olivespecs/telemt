@@ -58,4 +58,4 @@ tls_front_dir = "tlsfront"   # Cache directory for TLS emulation
 
 [access.users]
 # format: "username" = "32_hex_chars_secret"
-hello = "00000000000000000000000000000000"
+hello = "be7a0c6633b0ad9e1f132b5c12a9da7a"
